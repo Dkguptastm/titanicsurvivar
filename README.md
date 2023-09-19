@@ -1,1 +1,1 @@
-# titanicsurvivar
+# titanicsurvivor
